@@ -1,0 +1,7 @@
+{
+  "name": "ProyectoDMI",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite"
+}
